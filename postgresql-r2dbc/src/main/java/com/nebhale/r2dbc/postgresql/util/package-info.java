@@ -14,17 +14,8 @@
  * limitations under the License.
  */
 
-package com.nebhale.r2dbc.postgresql;
+/**
+ * Miscellaneous utilities.
+ */
 
-import java.util.function.Predicate;
-
-final class Util {
-
-    private Util() {
-    }
-
-    static <T> Predicate<T> not(Predicate<T> t) {
-        return t.negate();
-    }
-
-}
+package com.nebhale.r2dbc.postgresql.util;

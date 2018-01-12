@@ -86,7 +86,7 @@ public final class TestClient implements Client {
     }
 
     @Override
-    public Flux<BackendMessage> exchange(Publisher<FrontendMessage> publisher) {
+    public Flux<BackendMessage> exchange(Publisher<? extends FrontendMessage> publisher) {
         Objects.requireNonNull(publisher, "publisher must not be null");
 
         return Flux.defer(() -> {

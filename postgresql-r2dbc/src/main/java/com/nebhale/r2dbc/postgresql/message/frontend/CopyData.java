@@ -32,7 +32,7 @@ import static com.nebhale.r2dbc.postgresql.message.frontend.FrontendMessageUtils
 /**
  * The CopyData message.
  */
-public final class CopyData implements FrontendMessage {
+public final class CopyData implements CopyMessage {
 
     private final ByteBuf data;
 

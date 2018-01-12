@@ -31,7 +31,7 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.function.Function;
 
-import static com.nebhale.r2dbc.postgresql.Util.not;
+import static com.nebhale.r2dbc.postgresql.util.Util.not;
 
 /**
  * An implementation of {@link Connection} for connecting to a PostgreSQL database.

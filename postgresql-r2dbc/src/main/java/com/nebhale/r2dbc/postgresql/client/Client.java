@@ -41,7 +41,7 @@ public interface Client {
      * @param requests the publisher of outbound messages
      * @return a {@link Flux} of incoming messages that ends with the end of the frame (i.e. reception of a {@link ReadyForQuery} message.
      */
-    Flux<BackendMessage> exchange(Publisher<FrontendMessage> requests);
+    Flux<BackendMessage> exchange(Publisher<? extends FrontendMessage> requests);
 
     /**
      * Returns a snapshot of the current parameter statuses.

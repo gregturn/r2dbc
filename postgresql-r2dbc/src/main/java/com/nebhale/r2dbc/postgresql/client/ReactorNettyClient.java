@@ -128,7 +128,7 @@ public final class ReactorNettyClient implements Client {
      * @throws NullPointerException if {@code publisher} is {@code null}
      */
     @Override
-    public Flux<BackendMessage> exchange(Publisher<FrontendMessage> requests) {
+    public Flux<BackendMessage> exchange(Publisher<? extends FrontendMessage> requests) {
         Objects.requireNonNull(requests, "requests must not be null");
 
         return Flux.defer(() -> {

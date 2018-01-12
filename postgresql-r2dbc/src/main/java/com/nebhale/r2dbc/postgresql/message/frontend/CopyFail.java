@@ -31,7 +31,7 @@ import static com.nebhale.r2dbc.postgresql.message.frontend.FrontendMessageUtils
 /**
  * The CopyFail message.
  */
-public final class CopyFail implements FrontendMessage {
+public final class CopyFail implements CopyMessage {
 
     private final String message;
 

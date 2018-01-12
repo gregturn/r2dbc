@@ -27,7 +27,7 @@ import reactor.core.publisher.Mono;
 
 import java.util.Objects;
 
-import static com.nebhale.r2dbc.postgresql.Util.not;
+import static com.nebhale.r2dbc.postgresql.util.Util.not;
 
 /**
  * An implementation of {@link Transaction} for managing transactions in a PostgreSQL database.

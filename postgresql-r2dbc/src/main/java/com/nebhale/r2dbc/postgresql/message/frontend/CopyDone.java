@@ -31,7 +31,7 @@ import static com.nebhale.r2dbc.postgresql.message.frontend.FrontendMessageUtils
 /**
  * The CopyDone message.
  */
-public final class CopyDone implements FrontendMessage {
+public final class CopyDone implements CopyMessage {
 
     /**
      * A static singleton instance that should always be used.
