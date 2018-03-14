@@ -5,54 +5,54 @@
   <version>1.0.0.BUILD-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180313.205042</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20180314.190225</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20180313205042</lastUpdated>
+    <lastUpdated>20180314190225</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar.asc</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar.asc</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar.asc</extension>
-        <value>1.0.0.BUILD-20180313.205042-2</value>
-        <updated>20180313205042</updated>
+        <value>1.0.0.BUILD-20180314.190225-3</value>
+        <updated>20180314190225</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
