@@ -3,10 +3,11 @@
   <groupId>com.nebhale.r2dbc</groupId>
   <artifactId>r2dbc</artifactId>
   <versioning>
-    <release>1.0.0.M1</release>
+    <release>1.0.0.M2</release>
     <versions>
       <version>1.0.0.M1</version>
+      <version>1.0.0.M2</version>
     </versions>
-    <lastUpdated>20180225164839</lastUpdated>
+    <lastUpdated>20180315004917</lastUpdated>
   </versioning>
 </metadata>
